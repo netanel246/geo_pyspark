@@ -50,7 +50,8 @@ git clone https://github.com/Imbruced/geo_pyspark.git
 And install package from wheel file
 
 ```python
-pip install dist/geo_pyspark-0.1.0-py3-none-any.whl
+cd geo_pyspark
+pip install dist/geo_pyspark-0.2.0-py3-none-any.whl
 ```
 
 ## Example usage
